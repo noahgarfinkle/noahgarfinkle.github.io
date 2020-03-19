@@ -8,3 +8,39 @@
 
   description: | # this will include new lines to allow paragraphs
     Civil Engineer
+
+- layout: left
+  company: Peer-Reviewed Journal Articles
+  quote: >
+    My publications span multiple fields, including machine learning, infrastructure security, and force prtoection
+  description: | 
+    - <mark>Garfinkle, Noah W.</mark> [title](www.google.com), Journal, Issue (), Pages (Date).
+    
+- layout: left
+  company: Conference Proceedings
+  quote: >
+    My publications span multiple fields, including machine learning, infrastructure security, and force prtoection
+  description: | 
+    - <mark>Garfinkle, Noah W.</mark> [title](www.google.com), Journal, Issue (), Pages (Date).
+
+- layout: left
+  company: Theses
+  quote: >
+    My publications span multiple fields, including machine learning, infrastructure security, and force prtoection
+  description: | 
+    - <mark>Garfinkle, Noah W.</mark> [title](www.google.com), Journal, Issue (), Pages (Date).
+    
+- layout: left
+  company: Technical Reports
+  quote: >
+    My publications span multiple fields, including machine learning, infrastructure security, and force prtoection
+  description: | 
+    - <mark>Garfinkle, Noah W.</mark> [title](www.google.com), Journal, Issue (), Pages (Date).
+    
+- layout: left
+  company: Presentations
+  quote: >
+    My publications span multiple fields, including machine learning, infrastructure security, and force prtoection
+  description: | 
+    - <mark>Garfinkle, Noah W.</mark> [title](www.google.com), Journal, Issue (), Pages (Date).
+    
