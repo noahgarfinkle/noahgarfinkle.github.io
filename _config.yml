@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Noah Garfinkle
 title: PhD Candidate, The University of Illinois at Urbana-Champaign
 email: garfink2@illinois.edu
-website: www.noahgarfinkle.github.io
+website: https://noahgarfinkle.github.io/
 
 # Social links
 twitter_username: noahgarfinkle
@@ -24,9 +24,9 @@ linkedin_username: noahgarfinkle
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Noah and I'm a research civil engineer for the US Army Engineer Research and Development Center (ERDC).  I am also in the process of completing my PhD in Civil Engineering at the University of Illinois at Urbana-Champaign.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  My research areas are: <mark>Infrastructure Security</mark>, <mark>Spatial Data Analysis</mark> and <mark>Spatial Optimziation</mark>
 
 # Projects Section
 # projects_title: Projects
